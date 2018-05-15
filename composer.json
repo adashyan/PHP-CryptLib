@@ -1,7 +1,6 @@
 {
     "name": "CryptLib/CryptLib",
     "type": "library",
-	"version": "0.0.1-alpha1",
     "description": "A General Purpose Cryptography Library",
     "keywords": ["encryption", "cryptography", "cipher"],
     "homepage": "https://github.com/ircmaxell/PHP-CryptLib",
